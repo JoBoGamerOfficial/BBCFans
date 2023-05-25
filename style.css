@@ -122,5 +122,10 @@ footer {
   vertical-align: middle;
 }
 
-
+.icon-link {
+  border: none;
+  outline: none;
+  background: none;
+  padding: 0;
+}
 
